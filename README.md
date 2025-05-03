@@ -1,2 +1,1 @@
-# Airport-Management-Analysis-Dashboard
-The dataset was cleaned and analyzed to understand different data fields. A company-wise report highlights the variety of plans offered and differentiates between active and inactive customers.
+its a twb File Format Required tableau software to open the file. Source file are avilable there, download and load in tableau before loading the twb file.
